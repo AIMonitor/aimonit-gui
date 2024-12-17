@@ -450,8 +450,8 @@ Rectangle {
                     Usage:<br>
                         --wallet             Wallet address to mine to. Subaddresses and integrated addresses are not supported!<br>
                         --host               IP address of your Aimonit node, default is 127.0.0.1<br>
-                        --rpc-port           aimonitd RPC API port number, default is 20241<br>
-                        --zmq-port           aimonitd ZMQ pub port number, default is 20243 (same port as in aimonitd\'s \"--zmq-pub\" command line parameter)<br>
+                        --rpc-port           aimonitd RPC API port number, default is 12026<br>
+                        --zmq-port           aimonitd ZMQ pub port number, default is 12027 (same port as in aimonitd\'s \"--zmq-pub\" command line parameter)<br>
                         --stratum            Comma-separated list of IP:port for stratum server to listen on<br>
                         --p2p                Comma-separated list of IP:port for p2p server to listen on<br>
                         --addpeers           Comma-separated list of IP:port of other p2pool nodes to connect to<br>
